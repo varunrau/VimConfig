@@ -192,3 +192,13 @@ snippet table
 	</table>${4}
 snippet textarea
 	<textarea name="${1:Name}" rows="${2:8}" cols="${3:40}">${4}</textarea>${5}
+
+# ERUBY SPECIFIC
+snippet ruby
+	<% ${1} %>
+snippet iruby
+	<%= ${1} %>
+snippet form_for
+	<%= form_for @${1:Model}, url: ${2:Path} do |f| %>
+		${3}
+	<% end %>
