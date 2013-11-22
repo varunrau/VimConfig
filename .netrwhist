@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/varunrau/Documents/curr/answer_eliminator/.git'
 let g:netrw_dirhist_2='/Users/varunrau/Documents/varunrau.com/static'
 let g:netrw_dirhist_3='/Users/varunrau/Documents/varunrau.com/views'
+let g:netrw_dirhist_4='/Users/varunrau/.vim/bundle/vim-easymotion/doc'
+let g:netrw_dirhist_5='/Users/varunrau/.vim/bundle/vim-easymotion'
