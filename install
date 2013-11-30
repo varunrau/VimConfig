@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ ! -d ~/.vim ]
+then
+   echo 'Creating .vim directory at ~/.vim'
+   mkdir ~/.vim
+fi
+
+cp .vimrc ~/
+cp . ~/.vim/
+
