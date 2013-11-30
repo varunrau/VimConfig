@@ -6,7 +6,6 @@ then
    mkdir ~/.vim
 fi
 
-mv .vimrc ~/
-mv . ~/.vim/
-rm -rf install
+cp .vimrc ~/
+cp . ~/.vim/
 
