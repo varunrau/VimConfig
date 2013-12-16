@@ -1,2 +1,1 @@
-
-To use this config for yourself clone the repo into your .vim folder and move the .vimrc file to the root directory.
+To use this config for yourself clone the repo into your .vim folder and move the .vimrc file to the root directory. If you're on a UNIX-based machine, you can also run ./install and everything *should* work magically.
