@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 
 if [ ! -d ~/.vim ]
@@ -9,3 +10,17 @@ fi
 cp .vimrc ~/
 cp . ~/.vim/
 
+||||||| merged common ancestors
+=======
+#!/bin/bash
+
+if [ ! -d ~/.vim ]
+then
+   echo 'Creating .vim directory at ~/.vim'
+   mkdir ~/.vim
+fi
+
+cp .vimrc ~/
+cp -r * ~/.vim/
+
+>>>>>>> 87bbaa07e51cbd3abd5375c8bd474e07d5027920

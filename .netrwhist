@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =0
+||||||| merged common ancestors
+=======
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/varunrau/Dropbox/curr/BPSF/app'
+>>>>>>> 87bbaa07e51cbd3abd5375c8bd474e07d5027920
